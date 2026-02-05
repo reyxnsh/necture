@@ -53,7 +53,7 @@ Instead of re-watching long videos, you can:
 | Language     | Python |
 | UI Framework | Streamlit |
 | Video Data   | YouTube Transcript API |
-| AI           | OpenAI API |
+| AI           | Gemini API |
 | Environment  | Virtualenv |
 
 ---
