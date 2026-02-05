@@ -64,16 +64,21 @@ Instead of re-watching long videos, you can:
 ```bash
 git clone https://github.com/your-username/necture.git
 cd necture
+...
 ### 2. Create and activate a virtual environment
 ```bash
 python -m venv venv
 source venv/Scripts/activate   # Windows (Git Bash)
+...
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
+...
 ### 4. Set up environment variables
 ```bash
 OPENAI_API_KEY=your_api_key_here
+...
 ### 5. Run the application
 ```bash
 streamlit run app.py
+...
